@@ -21,7 +21,10 @@ Challenge
     Handle situations where the program returns a negative number by stating that the user can already retire.
 
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.time.LocalDate;
 import java.util.Date;
 import java.util.Scanner;
